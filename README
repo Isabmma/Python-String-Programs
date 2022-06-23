@@ -1,0 +1,10 @@
+## Python String Programs| Jun2022
+
+> 1_CPF registration
+Create a program for registering the CPF of customers that receives the CPF in an input box with only numbers.
+
+> 2_Improving our CPF Registry
+Now, in addition to the previous validations, we are going to create an input that allows the user to insert dots, dashes and even empty spaces.
+
+> 3_Email registration
+Create a program that allows the registration of a person's name and email (through inputs) and that checks if they are valid.
